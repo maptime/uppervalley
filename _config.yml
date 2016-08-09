@@ -7,7 +7,7 @@ repo: uppervalley
 github_org: maptime
 maptime:
   chapter: MaptimeUV
-  twitter: TwitterHandle
+  twitter: MaptimeUV
   #disqus: YOUR DISQUS USERNAME
 
 gems:
