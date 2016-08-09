@@ -1,12 +1,12 @@
-baseurl: /starter
+baseurl: /uppervalley
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: uppervalley
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: MaptimeUV
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
