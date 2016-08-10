@@ -118,7 +118,7 @@ a.fill-red:hover      { background-color:#d41e23; text-decoration:none; }
 a.fill-darken0:hover  { background-color:rgba(0,0,0,0.15); }
 .fill-darken1 { background-color:rgba(0,0,0,0.25); }
 
-.fill-chapter {
+header {
   /* Replace this with a map of your city */
   background-image:url(img/wleb-wrj.jpg); 
   background-repeat:no-repeat;
